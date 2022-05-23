@@ -1,7 +1,7 @@
-package com.akis_yazilim.oracle.melih.product.model.service;
+package com.akis_yazilim.postgre.admin.product.model.service;
 
-import com.akis_yazilim.oracle.melih.product.model.entity.Product;
-import com.akis_yazilim.oracle.melih.product.model.repository.ProductRepository;
+import com.akis_yazilim.postgre.admin.product.model.entity.Product;
+import com.akis_yazilim.postgre.admin.product.model.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;

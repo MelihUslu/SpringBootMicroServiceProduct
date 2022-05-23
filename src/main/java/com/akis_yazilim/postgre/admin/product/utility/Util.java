@@ -1,4 +1,4 @@
-package com.akis_yazilim.oracle.melih.product.utility;
+package com.akis_yazilim.postgre.admin.product.utility;
 
 public final class Util
 {

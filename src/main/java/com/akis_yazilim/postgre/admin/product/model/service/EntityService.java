@@ -1,4 +1,4 @@
-package com.akis_yazilim.oracle.melih.product.model.service;
+package com.akis_yazilim.postgre.admin.product.model.service;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package com.akis_yazilim.oracle.melih.product.model.repository;
+package com.akis_yazilim.postgre.admin.product.model.repository;
 
-import com.akis_yazilim.oracle.melih.product.model.entity.Product;
+import com.akis_yazilim.postgre.admin.product.model.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

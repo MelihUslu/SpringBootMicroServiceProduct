@@ -1,4 +1,4 @@
-package com.akis_yazilim.oracle.melih.product;
+package com.akis_yazilim.postgre.admin.product;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

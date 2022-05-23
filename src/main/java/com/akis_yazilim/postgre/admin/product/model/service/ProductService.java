@@ -1,8 +1,8 @@
-package com.akis_yazilim.oracle.melih.product.model.service;
+package com.akis_yazilim.postgre.admin.product.model.service;
 
-import com.akis_yazilim.oracle.melih.product.model.entity.Product;
-import com.akis_yazilim.oracle.melih.product.utility.ExceptionMessageType;
-import com.akis_yazilim.oracle.melih.product.utility.Util;
+import com.akis_yazilim.postgre.admin.product.model.entity.Product;
+import com.akis_yazilim.postgre.admin.product.utility.ExceptionMessageType;
+import com.akis_yazilim.postgre.admin.product.utility.Util;
 import org.springframework.stereotype.Service;
 
 import java.util.Date;

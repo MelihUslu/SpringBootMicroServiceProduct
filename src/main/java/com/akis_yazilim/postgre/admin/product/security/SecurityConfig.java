@@ -1,4 +1,4 @@
-package com.akis_yazilim.oracle.melih.product.security;
+package com.akis_yazilim.postgre.admin.product.security;
 
 public class SecurityConfig
 {

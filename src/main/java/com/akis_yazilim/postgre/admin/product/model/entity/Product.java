@@ -1,4 +1,4 @@
-package com.akis_yazilim.oracle.melih.product.model.entity;
+package com.akis_yazilim.postgre.admin.product.model.entity;
 
 import lombok.Data;
 
